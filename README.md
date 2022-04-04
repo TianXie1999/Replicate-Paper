@@ -13,3 +13,10 @@ Therefore, the paper discusses how accuracy would suffer when we add constraints
 **Previous Code and New Contributions**
 
 The paper has its github but the codes are out-dated since it was written in 2018. Also, certain functions are erased in Python packages now. We modifed the code from Python 2 to Python 3 to replicate the results. More importantly, we integrate all experiments in one Jupyter notebook to provide better visualizations instead of the original .py files
+
+**References**
+
+1. Zafar, Muhammad Bilal, et al. "Fairness beyond disparate treatment & disparate impact: Learning classification without disparate mistreatment." Proceedings of the 26th international conference on world wide web. 2017.
+
+
+2. 2018 github: https://github.com/mbilalzafar/fair-classification

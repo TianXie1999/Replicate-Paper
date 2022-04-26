@@ -1,5 +1,7 @@
 # Replicate-Paper
 
+Project Write Up: https://github.com/TianXie1999/Replicate-Paper/blob/main/Project_Writeup.pdf
+
 In this notebook, we are going to replicate the experiments in paper *Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment* (Zafar, Muhammad Bilal, et al.)
 
 This paper is mainly about fairness of machine learning algorithms. There are several fairness metrics, and this paper focuses on one of them: **Disparate Mistreatment**. According to the paper, **disparate mistreatment means with respect to a sensitive attribute, the model would have misclassification rates differ for groups of people having different values of that sensitive attribute (e.g., blacks and whites).** There are also multiple ways to measure the so-called misclassification rate, where the paper mainly discusses two of them: false positive rate and false negative rate. Here are the definitions:
